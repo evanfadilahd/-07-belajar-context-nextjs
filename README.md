@@ -21,3 +21,21 @@
 
 <br />
 
+"Problem 2: Capture the results and make a report in README.md. Explain what you have learned and how it looks now?"
+![Screenshot](assets-report/2.png)
+
+    There is a way to "request" data from somewhere up the tree that props alone cannot do. 
+
+    This is where context comes in. Which can be done in three steps:
+    1. Create a context. (You can name it LevelContext, since it's for the title level.)
+    2. Use the context from the component that needs the data. (Heading will use LevelContext.)
+    3. Provide the context from the component that specifies the data. (Section will provide LevelContext.)
+
+"If there is an error, please fix it, why did it happen? Explain!"
+![Screenshot](assets-report/2.1.png)
+
+    There is error says that importing a component need createContext, but it's only work in that page. Or in other word it is by default become a server component.
+    So, we need to add "use cient"; in page.tsx
+
+<br />
+
