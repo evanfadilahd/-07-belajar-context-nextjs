@@ -39,7 +39,7 @@
 
 <br />
 
-"Problem 3: Capture the results and create a report in README.md. Explain what you have learned and how it looks now?"
+"Problem 3: Capture the results and create a report in README.md. Explain what you have learned and how it looks now?"<br/>
 ![Screenshot](assets-report/3.png)
 
     In this practicum, we make the Heading and Section read and use LevelContext to find out how "deep" they are. And Section wraps its children into LevelContext to determine that whatever is inside is at a "deeper" level.
@@ -47,3 +47,16 @@
 
 <br />
 
+### Practicum 2
+
+"Problem 4 : Capture the results and create a report in README.md. Add the text Name and NIM to the Post component to show it's your work!" <br/><br/>
+![Screenshot](assets-report/4.png)
+
+<br />
+
+### Practicum 3
+
+"Problem 5 : Capture the results and create a report in README.md. Add the text Name and NIM to the Post component to show it's your work!" <br/>
+![Screenshot](assets-report/5.png)
+
+<br />
