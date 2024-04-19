@@ -39,3 +39,11 @@
 
 <br />
 
+"Problem 3: Capture the results and create a report in README.md. Explain what you have learned and how it looks now?"
+![Screenshot](assets-report/3.png)
+
+    In this practicum, we make the Heading and Section read and use LevelContext to find out how "deep" they are. And Section wraps its children into LevelContext to determine that whatever is inside is at a "deeper" level.
+    By doing that, we don't need to add Level of the section or heading manually in the page!
+
+<br />
+
