@@ -76,7 +76,9 @@
 
     Because the theme variable is not stored when we switch to other pages.
     To make the theme permanent even after refreshing or navigating between pages, we can utilize browser storage mechanisms like local storage.
-
     
+
+https://github.com/evanfadilahd/-07-belajar-context-nextjs/assets/92024300/c44aa355-ebcb-49a5-b3f7-de37f38ae18a
+
 
 <br />
