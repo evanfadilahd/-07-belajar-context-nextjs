@@ -60,13 +60,15 @@
 "Add Name and NIM text on each routing page to show it's your own work!" <br/>
 ![Screenshot](assets-report/5.png)
 ![Screenshot](assets-report/5.1.png)
+![Screenshot](assets-report/5.2.png)
+![Screenshot](assets-report/5.3.png)
 
 
 "1. Is the theme toggle button working? If not, please fix it!"
 
     It's already working
 
-![Screenshot](assets-report/5.2.png)
+![Screenshot](assets-report/5.4.png)
 
 <br />
 
