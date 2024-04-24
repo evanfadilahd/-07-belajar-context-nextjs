@@ -56,7 +56,23 @@
 
 ### Practicum 3
 
-"Problem 5 : Capture the results and create a report in README.md. Add the text Name and NIM to the Post component to show it's your work!" <br/>
+"Problem 5 : Please save everything and run it in your browser. Capture the results and create a report in README.md."
+"Add Name and NIM text on each routing page to show it's your own work!" <br/>
 ![Screenshot](assets-report/5.png)
+![Screenshot](assets-report/5.1.png)
+
+
+"1. Is the theme toggle button working? If not, please fix it!"
+
+    It's already working
+
+![Screenshot](assets-report/5.2.png)
+
+<br />
+
+"2. Why when refreshing or switching pages the theme is not permanent? Make it permanent even though the page has been refreshed and moved!"
+
+    Because the theme variable is not stored when we switch to other pages.
+    To make the theme permanent even after refreshing or navigating between pages, we can utilize browser storage mechanisms like local storage.
 
 <br />
